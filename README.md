@@ -1,11 +1,3 @@
-# Jets Project
+# Example Project to Produce Multiple Variable Path Issue
 
-This README would normally document whatever steps are necessary to get the application up and running.
-
-Things you might want to cover:
-
-* Dependencies
-* Configuration
-* Database setup
-* How to run the test suite
-* Deployment instructions
+Reference: https://community.rubyonjets.com/t/jets-deploy-create-failed-aws-stack-apigateway-embedded/52/7
