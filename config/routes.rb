@@ -1,7 +1,7 @@
 Jets.application.routes.draw do
   # resources :posts
   get  "posts", to: "posts#index"
-  get  "posts/:id", to: "posts#show"
+  get  "posts/:post_id", to: "posts#show"
 
   root "jets/public#show"
 
